@@ -1,5 +1,4 @@
-## <img src="./assets/cool.gif" width="18" display='inline-block'> 
-Hey! Nice to see you.
+##<img src="./assets/cool.gif" width="18" display='inline-block'>Hey! Nice to see you.
 
 Welcome to my page!
 I'm Ionathan, Front Web Developer from <img src="./assets/france.png" width="15" display='inline-block'> France. 
