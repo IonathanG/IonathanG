@@ -51,6 +51,4 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
 </p>
 
 <h3>My Portfolio Website</h3>
-<p>
 <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><h4>Ionathan Gusmini</h4></a> 
-</p>
