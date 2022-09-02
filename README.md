@@ -10,7 +10,7 @@ I've lived and worked all over
 <img src="./assets/south korea.png" width="14" display='inline-block'> 
 <img src="./assets/united arab emirates.png" width="14" display='inline-block'>. 
 
-</br>
+</br></br>
 I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet.
 </br>
 Currently building Fullstack Projects for the Web while moving from <b>China</b> to <b>France</b>.
@@ -41,6 +41,7 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
   <img alt="AdobeLightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="25"/>
 </p>
+</br>
 
 <h3>My Latest Projects && Experiences on the Web</h3>
 <table>
