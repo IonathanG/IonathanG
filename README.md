@@ -42,4 +42,10 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
   <img alt="AdobeLightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="25"/>
 </p>
 
-<h3>My Projects and Experiences</h3>
+<h3>Latest Projects && Experiences on the Web</h3>
+
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/IonathanG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ionathan-gusmini" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
