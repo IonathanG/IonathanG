@@ -10,7 +10,7 @@ I've lived and worked all over
 <img src="./assets/south korea.png" width="14" display='inline-block'> 
 <img src="./assets/united arab emirates.png" width="14" display='inline-block'>. 
 
-</br></br>
+</br>
 I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet.
 </br>
 Currently building Fullstack Projects for the Web while moving from <b>China</b> to <b>France</b>.
@@ -41,8 +41,8 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
   <img alt="AdobeLightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="25"/>
 </p>
-</br>
 
+------------
 <h3>My Latest Projects && Experiences on the Web</h3>
 <table>
   <thead align="center">
@@ -84,7 +84,5 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
 <p>
 <a href="https://github.com/IonathanG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/ionathan-gusmini" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>My Portfolio</b></a> 
 </p>
-
-<h3>My Portfolio Website</h3>
-<a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a> 
