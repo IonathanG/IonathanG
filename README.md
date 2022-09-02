@@ -50,7 +50,8 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
 <a href="https://www.linkedin.com/in/ionathan-gusmini" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-<h3>My Portfolio/h3>
+<h3>My Portfolio</h3>
+</br>
 <p>
 <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a> 
 </p>
