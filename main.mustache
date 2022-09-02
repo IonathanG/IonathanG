@@ -8,9 +8,11 @@ I've lived and worked all over
 <img src="./assets/european union.png" width="14" display='inline-block'> 
 <img src="./assets/china.png" width="14" display='inline-block'> 
 <img src="./assets/south korea.png" width="14" display='inline-block'> 
-<img src="./assets/united arab emirates.png" width="14" display='inline-block'>. 
+<img src="./assets/united arab emirates.png" width="14" display='inline-block'>.
+</p>
 
 </br>
+<p>
 I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet.
 </br>
 Currently building Fullstack Projects for the Web while moving from <b>China</b> to <b>France</b>.
@@ -43,7 +45,7 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
 </p>
 
 ------------
-<h3>My Latest Projects && Experiences on the Web</h3>
+<h3>My Latest Projects <span width="10px">&&</span> Experiences on the Web</h3>
 <table>
   <thead align="center">
     <tr border: none;>
