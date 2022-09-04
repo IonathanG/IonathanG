@@ -62,12 +62,12 @@ Currently building Fullstack Projects for the Web and Freelancing.
 	  <tr>
       <td><a href="https://github.com/IonathanG/react-ecommerce-redux-back"><b>React E-Commerce Shopping App</b></a></td>
       <td>A full stack E-Commerce Platform. Users create an account and retrieve their shopping carts on any device A synchronised Front/Back end Data-Flow using LocalStorage for Guest, Firestore Database and Firebase login system for users</td>
-      <td><a src="https://react-ecommerce-ionyshop.netlify.app/"><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
+      <td><a src="https://react-ecommerce-ionyshop.netlify.app/"><img width="300" alt="Preview" src="./assets/screenshot_portfolio.png"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/IonathanG/portfolio_dev"><b>Portfolio Personal Page</b></a></td>
       <td>Interactive Portfolio Website showcasing my work. Built-in with Light/Dark theme mode and a Contact Form.</td>
-      <td><a src="https://ionathan-gusmini-dev.netlify.app/"><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
+      <td><a src="https://ionathan-gusmini-dev.netlify.app/"><img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
     </tr>
   </tbody>
 </table>
