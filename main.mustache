@@ -12,7 +12,7 @@ I've lived and worked all over
 </p>
 
 <p>
-I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet and create entertaining user experiences.</b>.
+I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet and create entertaining user experiences.</b>
 </br>
 Currently building Fullstack Projects for the Web and Freelancing.
 </p>
