@@ -82,7 +82,9 @@ Currently building Fullstack Projects for the Web and Freelancing.
             <li>Built-in with Light/Dark theme mode and a Contact Form.</li>
         </ul>
       </td>
-      <td><a src="https://ionathan-gusmini-dev.netlify.app/"><img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
+      <td>
+      <img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <a src="https://ionathan-gusmini-dev.netlify.app/">Live Website</a<
     </tr>
   </tbody>
 </table>
