@@ -49,29 +49,25 @@ Currently building Fullstack Projects for the Web and Freelancing.
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ View Live</b></td>
       <td><b>🛎 About</b></td>
-      <td><b>📬 Preview</b></td>
+      <td><b>⭐ View Live</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker Application</b></a></td>
-      <td>Coming Soon</td>
       <td>Full Stack App that Records and Track bugs occurring in software development. Fully secured: authentication method for security and role access (admin/manager/dev/submitter)</td>
-      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <td>Coming Soon</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/IonathanG/react-ecommerce-redux-back"><b>React E-Commerce Shopping App</b></a></td>
-      <td><a src="https://react-ecommerce-ionyshop.netlify.app/">Live Website</a></td>
       <td>A full stack E-Commerce Platform. Users create an account and retrieve their shopping carts on any device A synchronised Front/Back end Data-Flow using LocalStorage for Guest, Firestore Database and Firebase login system for users</td>
-      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <td><a src="https://react-ecommerce-ionyshop.netlify.app/"><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/IonathanG/portfolio_dev"><b>Portfolio Personal Page</b></a></td>
-      <td><a src="https://ionathan-gusmini-dev.netlify.app/">Live Website</a></td>
       <td>Interactive Portfolio Website showcasing my work. Built-in with Light/Dark theme mode and a Contact Form.</td>
-      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <td><a src="https://ionathan-gusmini-dev.netlify.app/"><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
     </tr>
   </tbody>
 </table>
