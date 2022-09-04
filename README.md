@@ -72,7 +72,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
             <li>A synchronised Front/Back end Data-Flow using LocalStorage for Guest, Firestore Database and Firebase login system for users.</li>
         </ul>
       </td>
-      <td><a href="https://react-ecommerce-ionyshop.netlify.app/" target="_blank"><img width="300" alt="Preview" src="./assets/screenshot_ecommerce"/></a></td>
+      <td><a href="https://react-ecommerce-ionyshop.netlify.app/" target="_blank"><img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/IonathanG/portfolio_dev"><b>Portfolio Personal Page</b></a></td>
