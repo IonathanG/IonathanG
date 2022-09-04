@@ -88,7 +88,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
 </table>
 
 ------------
-<h3>Where to find me</h3>
+<h3>Where to find me 📬 </h3>
 <p>
 <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>My Portfolio</b></a>
 </p>
