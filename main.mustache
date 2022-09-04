@@ -1,4 +1,4 @@
-<h1><img src="./assets/cool.gif" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="./assets/cool.gif" width="30"/> Hey! Nice to see you here.</h1>
 
 <p>
 Welcome to my page! </br>
@@ -12,7 +12,7 @@ I've lived and worked all over
 </p>
 
 <p>
-I enjoy turning complex problems into simple, beautiful and intuitive apps that <b>live on the Internet</b>.
+I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet and create entertaining user experiences.</b>.
 </br>
 Currently building Fullstack Projects for the Web and Freelancing.
 </p>
@@ -55,7 +55,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker Application</b></a></td>
+      <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker App</b></a></td>
       <td>Full Stack App that Records and Track bugs occurring in software development. Fully secured: authentication method for security and role access (admin/manager/dev/submitter)</td>
       <td>Coming Soon</td>
     </tr>
