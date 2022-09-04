@@ -59,19 +59,19 @@ Currently building Fullstack Projects for the Web and Freelancing.
       <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker Application</b></a></td>
       <td>Coming Soon</td>
       <td>Full Stack App that Records and Track bugs occurring in software development. Fully secured: authentication method for security and role access (admin/manager/dev/submitter)</td>
-      <td><img width="150" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/IonathanG/react-ecommerce-redux-back"><b>React E-Commerce Shopping App</b></a></td>
-      <td><img alt="View_Live" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="About" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Preview" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a src="https://react-ecommerce-ionyshop.netlify.app/">Live Website</a></td>
+      <td>A full stack E-Commerce Platform. Users create an account and retrieve their shopping carts on any device A synchronised Front/Back end Data-Flow using LocalStorage for Guest, Firestore Database and Firebase login system for users</td>
+      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/IonathanG/portfolio_dev"><b>Portfolio Personal Page</b></a></td>
-      <td><img alt="View_Live" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="About" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Preview" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a src="https://ionathan-gusmini-dev.netlify.app/">Live Website</a></td>
+      <td>Interactive Portfolio Website showcasing my work. Built-in with Light/Dark theme mode and a Contact Form.</td>
+      <td><img width="220" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
     </tr>
   </tbody>
 </table>
