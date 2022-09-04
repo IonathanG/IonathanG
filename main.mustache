@@ -83,8 +83,9 @@ Currently building Fullstack Projects for the Web and Freelancing.
         </ul>
       </td>
       <td>
-      <img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
-      <a src="https://ionathan-gusmini-dev.netlify.app/">Live Website</a<
+      <img width="300" alt="Preview" src="./assets/screenshot_ecommerce.png"/>
+      <a src="https://ionathan-gusmini-dev.netlify.app/">Live Website</a>
+      </td>
     </tr>
   </tbody>
 </table>
