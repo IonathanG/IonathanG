@@ -57,9 +57,9 @@ Currently building Fullstack Projects for the Web and Freelancing.
   <tbody>
     <tr>
       <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker Application</b></a></td>
-      <td><img alt="View_Live" src="#"/>Coming Soon</td>
+      <td>Coming Soon</td>
       <td>Full Stack App that Records and Track bugs occurring in software development. Fully secured: authentication method for security and role access (admin/manager/dev/submitter)</td>
-      <td><img alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
+      <td><img width="150" alt="Preview" src="./assets/screenshot_ecommerce.png"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/IonathanG/react-ecommerce-redux-back"><b>React E-Commerce Shopping App</b></a></td>
