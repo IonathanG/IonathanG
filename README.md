@@ -12,9 +12,9 @@ I've lived and worked all over
 </p>
 
 <p>
-I enjoy turning complex problems into simple, beautiful and intuitive apps that live on the internet.
+I enjoy turning complex problems into simple, beautiful and intuitive apps that <b>live on the Internet</b>.
 </br>
-Currently building Fullstack Projects for the Web while moving from <b>China</b> to <b>France</b>.
+Currently building Fullstack Projects for the Web and Freelancing.
 </p>
 
 <h3>Things I code with</h3>
@@ -44,24 +44,24 @@ Currently building Fullstack Projects for the Web while moving from <b>China</b>
 </p>
 
 ------------
-<h3>My Latest Projects <p fontSize="5px">&&</p> Experiences on the Web</h3>
+<h3>My Latest Projects and Experiences on the Web</h3>
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>⭐ View Live</b></td>
+      <td><b>📚 Repo</b></td>
+      <td><b>🛎 About</b></td>
+      <td><b>📬 Commits</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker Application</b></a></td>
+      <td><img alt="View_Live" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Repo" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="About" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
