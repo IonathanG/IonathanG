@@ -21,7 +21,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
 <p>You can find my portfolio at <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a></p>
 
 ------------
-<h3>Things I code with 💻</h3>
+<h3>Things I code with 🔧</h3>
 <p>
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
   <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/>
@@ -48,7 +48,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
 </p>
 
 ------------
-<h3>My Latest Projects and Experiences on the Web</h3>
+<h3>My Latest Projects and Experiences on the Web 💻</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -92,7 +92,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
 </table>
 
 ------------
-<h3>Where to find me 📬 </h3>
+<h3>Let's get in touch! 📬 </h3>
 <p>
 <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>My Portfolio</b></a>
 </p>
