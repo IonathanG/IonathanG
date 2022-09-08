@@ -1,9 +1,8 @@
 <img src="./assets/Black Technology LinkedIn Banner.png" width="100%"/>
 <h1><img src="./assets/cool.gif" width="30"/> Hey! Nice to see you here.</h1>
-<h1><img src="./assets/wave.gif" width="30"/> Hello, there!</h1>
 
 <p>
-Welcome to my page! </br>
+Welcome to my page! <img src="./assets/wave.gif" width="13"/></br>
 I'm Ionathan, a Web Developer from <img src="./assets/france.png" width="14" display='inline-block'> <b>France</b>. 
 I've lived and worked all over 
 <img src="./assets/united states.png" width="14" display='inline-block'> 
