@@ -1,4 +1,6 @@
+<img src="./assets/Black Technology LinkedIn Banner.png" width="100%"/>
 <h1><img src="./assets/cool.gif" width="30"/> Hey! Nice to see you here.</h1>
+<h1><img src="./assets/wave.gif" width="30"/> Hello, there!</h1>
 
 <p>
 Welcome to my page! </br>
