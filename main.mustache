@@ -20,6 +20,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
 
 <p>You can find my portfolio at <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a></p>
 
+------------
 <h3>Things I code with 💻</h3>
 <p>
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
