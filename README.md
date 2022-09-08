@@ -18,7 +18,7 @@ I enjoy turning complex problems into simple, beautiful and intuitive apps that 
 Currently building Fullstack Projects for the Web and Freelancing.
 </p>
 
-<p>You can find my portfolio at <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a></p>
+<p>You can find my portfolio at <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a>.</p>
 
 ------------
 <h3>Things I code with 🔧</h3>
