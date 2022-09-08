@@ -62,7 +62,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
       <td><a href="https://github.com/IonathanG/react-bug-tracker"><b>React Bug Tracker App</b></a></td>
       <td>
         <ul>
-            <li>Full Stack App that Records and Track bugs occurring in software development.</li>
+            <li>Full Stack App that records and tracks bugs occurring in software development.</li>
             <li>Fully secured: authentication method for security and role access (admin/manager/dev/submitter).</li>
         </ul>
       </td>
