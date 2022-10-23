@@ -20,7 +20,8 @@ Currently building Fullstack Projects for the Web and Freelancing.
 
 <p>You can find my portfolio at <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>Ionathan Gusmini</b></a>.</p>
 
-------------
+---
+
 <h3>Things I code with 🔧</h3>
 <p>
   <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
@@ -47,7 +48,8 @@ Currently building Fullstack Projects for the Web and Freelancing.
   <img alt="AdobeLightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" height="25"/>
 </p>
 
-------------
+---
+
 <h3>My Latest Projects and Experiences on the Web 💻</h3>
 <table>
   <thead align="center">
@@ -66,7 +68,7 @@ Currently building Fullstack Projects for the Web and Freelancing.
             <li>Fully secured: authentication method for security and role access (admin/manager/dev/submitter).</li>
         </ul>
       </td>
-      <td>Coming Soon</td>
+    <td><a href="https://bugtracker-ig.netlify.app/" target="_blank"><img width="300" alt="Preview" src="./assets/bug_tracker_screenshot.png"/></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/IonathanG/react-ecommerce-redux-back"><b>React E-Commerce Shopping App</b></a></td>
@@ -91,7 +93,8 @@ Currently building Fullstack Projects for the Web and Freelancing.
   </tbody>
 </table>
 
-------------
+---
+
 <h3>Let's get in touch! 📬 </h3>
 <p>
 <a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><b>My Portfolio</b></a>
