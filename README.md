@@ -90,6 +90,16 @@ Currently building Fullstack Projects for the Web and Freelancing.
       </td>
       <td><a href="https://ionathan-gusmini-dev.netlify.app/" target="_blank"><img width="300" alt="Preview" src="./assets/screenshot_portfolio.png"/></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/IonathanG/react-sneakers_Shop-redux-toolkit"><b>E-Commerce Sneakers Shoe Shop</b></a></td>
+      <td>
+        <ul>
+            <li>This react app is designed as an Online Sneakers Shop.</li> 
+            <li>Each user can create an account and save items onto their shopping cart saved onto the Local Storage.</li>
+        </ul>
+      </td>
+      <td><a href="https://react-e-commerce-sneakers.netlify.app/" target="_blank"><img width="300" alt="Preview" src="./assets/sneakers_screenshot.png"/></a></td>
+    </tr>
   </tbody>
 </table>
 
